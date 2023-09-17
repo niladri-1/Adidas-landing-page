@@ -21,13 +21,6 @@ The Adidas Landing Page is a visually engaging web page inspired by Adidas. It's
 - JavaScript
 
 
-## Getting Started
-
-To explore the Adidas Landing Page, visit the live website:
-
-[Link to Live Page](https://adidas-landing-page.netlify.app)
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
